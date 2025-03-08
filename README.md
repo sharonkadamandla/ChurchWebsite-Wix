@@ -27,7 +27,7 @@ The website is still in progress. The main structure and content are in place, b
 
 ## 🔗 Live Website
 
-Visit the Website [(Replace with actual Wix URL when available)](https://hrbcweb.wixsite.com/harmony-road-baptist)
+Visit the Website https://hrbcweb.wixsite.com/harmony-road-baptist
 
 ## 🛠 Tools Used
 
