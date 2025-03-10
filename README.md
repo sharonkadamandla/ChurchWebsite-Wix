@@ -11,19 +11,22 @@ Home – Displays service timings, an option to join virtually, a slideshow feat
 
 About – Shares our beliefs, core values, church covenant, articles of faith, and details about the pastor.
 
-Ministries – Provides information on various church ministries and community programs.
+Ministries – Uses custom Wix coding to create an interactive dropdown system where clicking a heading reveals ministry details while closing others, improving focus and reducing confusion.
 
 Events – Showcases upcoming church events with Wix Forms for easy sign-up.
 
-Sermons – Features recorded sermons with YouTube integration and locally uploaded sermon files using the Wix File Manager.
+Sermons – Features recorded sermons via Google Drive for playing and downloading sermon files.
 
 Contact – Provides contact details and an inquiry form for visitors.
 
 Give – Offers online donation options to support the church.
 
-## 🚧 Project Status
+## 🚧 Project Status & Problem Solving
 
-The website is still in progress. The main structure and content are in place, but it requires further refinement and optimization.
+Structure Completed – All pages and main functionality are now in place.
+File Sharing Optimized – Switched to Google Drive for better accessibility and cost-effectiveness.
+Custom Coding Added – Overcame Wix limitations by coding an interactive dropdown feature in the Ministries page, ensuring only one section is open at a time to keep the layout clean.
+
 
 ## 🔗 Live Website
 
@@ -32,9 +35,10 @@ Visit the Website https://hrbcweb.wixsite.com/harmony-road-baptist
 ## 🛠 Tools Used
 
 Wix – Website builder
-Google Calendar – Events information
-YouTube – Sermon hosting
-Wix Forms – Contact, event signups and giving options
+Wix Velo (Coding) – Custom scripts for improved functionality
+Google Calendar – Events integration
+Google Drive – File sharing for sermon downloads
+Wix Forms – Contact and event sign-up
 
 ## ✨ Next Steps
 
