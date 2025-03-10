@@ -24,7 +24,9 @@ Give – Offers online donation options to support the church.
 ## 🚧 Project Status & Problem Solving
 
 Structure Completed – All pages and main functionality are now in place.
+
 File Sharing Optimized – Switched to Google Drive for better accessibility and cost-effectiveness.
+
 Custom Coding Added – Overcame Wix limitations by coding an interactive dropdown feature in the Ministries page, ensuring only one section is open at a time to keep the layout clean.
 
 
@@ -35,17 +37,23 @@ Visit the Website https://hrbcweb.wixsite.com/harmony-road-baptist
 ## 🛠 Tools Used
 
 Wix – Website builder
+
 Wix Velo (Coding) – Custom scripts for improved functionality
+
 Google Calendar – Events integration
+
 Google Drive – File sharing for sermon downloads
+
 Wix Forms – Contact and event sign-up
 
 ## ✨ Next Steps
 
 Finalizing content and structure
+
 Enhancing design and user experience
+
 Testing responsiveness on mobile and desktop
 
-## 📌 Author
+## Author
 
 Sharon Niharika Kadamandla
