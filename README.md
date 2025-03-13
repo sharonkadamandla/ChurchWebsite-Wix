@@ -58,18 +58,4 @@ Testing responsiveness on mobile and desktop
 
 Sharon Niharika Kadamandla
 
-## LICENCE 
-
-MIT License
-
-Copyright (c) 2025 Sharon Niharika Kadamandla
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this website design 
-and associated code (the "Software") to use, copy, modify, merge, publish, distribute, sublicense, 
-and/or sell copies of the Software, subject to the following conditions:
-
-1. The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
-2. This license applies only to the website design and code (e.g., Wix Velo scripts) created by Sharon Niharika Kadamandla. No permission is granted to use, reproduce, or distribute any church-specific information or content (e.g., sermons, construction details, or other materials provided by Harmony Road Baptist Church, Oshawa, On, Canada) for any purpose, including personal use, fraud, or any activity unrelated to designing a similar website. All such content remains the exclusive property of Harmony Road Baptist Church, Oshawa, On, Canada.
-3. Any use of the Software must credit Sharon Niharika Kadamandla as the original author.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Check LICENCE for full details
