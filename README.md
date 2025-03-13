@@ -58,4 +58,4 @@ Testing responsiveness on mobile and desktop
 
 Sharon Niharika Kadamandla
 
-Check LICENCE for full details
+Check LICENCE for copy rights
