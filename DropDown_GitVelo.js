@@ -1,4 +1,22 @@
+/**
+ * Wix Velo Code for Interactive Ministries Dropdown 
+ * 
+ * Link:
+ * 
+ * Funtionality : 
+ * This script enables an interactive dropdown functionality for the Ministries page.
+ * When a user clicks on a ministry title, its description expands while others collapse.
+ * This ensures only one ministry's information is visible at a time, keeping the UI clean.
+ * 
+ * How to Use:
+ * - Ensure the ministry titles and info sections have correct IDs in the Wix Editor.
+ * - Connect the IDs to the "ministries" array below.
+ * - The script automatically applies the interactive behavior when the page loads.
+ * 
+ */
+
 $w.onReady(function () {
+    // Define ministries with their corresponding title and info section IDs 
     const ministries = [
         { title: "#BibleStudiesTitle", info: "#BibleStudiesInfo" },
         { title: "#PrayerMinistryTitle", info: "#PrayerMinistryInfo" },
